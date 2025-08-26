@@ -14,7 +14,13 @@ It detects and recognizes alphanumeric characters from vehicle number plates.
 ---
 
 ## Project Structure
-Vehicle_Number_Plate_Detection/ │── Alpha/    # Template images for characters (A–Z, 0–9) │── Number Plate Images/    # Sample images for testing │── Letter_detection.m    # Character recognition code │── Plate_detection.m    # Number plate detection code │── template_creation.m    # Template generation code │── NewTemplates.mat    # Stored templates
+Vehicle_Number_Plate_Detection/ 
+│── Alpha/    # Template images for characters (A–Z, 0–9) 
+│── Number Plate Images/    # Sample images for testing 
+│── Letter_detection.m    # Character recognition code 
+│── Plate_detection.m    # Number plate detection code 
+│── template_creation.m    # Template generation code 
+│── NewTemplates.mat    # Stored templates
 
 ---
 
