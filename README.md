@@ -44,5 +44,10 @@ Vehicle_Number_Plate_Detection/
 
 ---
 
-## License
-This project is for educational purposes only.
+## Author
+
+Developed by Vishnu Prasad A, BE. ECE
+
+For learning, research, and assistive technology development.
+
+---
